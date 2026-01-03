@@ -48,7 +48,8 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 ├── notebooks/
 │ ├── EDA.ipynb
 │ ├── PCA Clustering.ipynb
-│ └── Lifetime Visualizations.ipynb
+│ ├── Lifetime Visualizations.ipynb
+│ └── Cluster vs. Anatomy.ipynb
 │
 ├── src/
 │ ├── data_processing.py
