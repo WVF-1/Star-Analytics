@@ -32,7 +32,7 @@ This project uses the **Star Dataset** from Kaggle, which contains physical prop
 - Star type and color
 
 **Dataset link (CC0 / public):** 
-[Kaggle Dataset]([https://www.kaggle.com/datasets/jonassouza872/christmas-hits-daily-streaming-history-2017-2025])
+You may view the dataset here: [Kaggle Dataset](https://www.kaggle.com/datasets/deepu1109/star-dataset?resource=download).
 
 The dataset is small, clean, and ideal for exploratory analysis and unsupervised learning.
 
