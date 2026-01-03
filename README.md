@@ -40,26 +40,21 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 
 ## Repository Structure
 ```
-│
 ├── data/
 │ ├── raw/
-│ │ └── Stars.csv
-│ └── processed/
+│ └── Stars.csv
+│ 
 │
 ├── notebooks/
-│ ├── 01_eda.ipynb
-│ ├── 02_pca_clustering.ipynb
-│ └── 03_viz_lifetimes.ipynb
+│ ├── EDA.ipynb
+│ ├── PCA Clustering.ipynb
+│ └── Lifetime Visualizations.ipynb
 │
 ├── src/
 │ ├── data_processing.py
 │ ├── pca_analysis.py
 │ └── clustering.py
 │
-├── reports/
-│ └── figures/
-│
-├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
