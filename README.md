@@ -39,7 +39,7 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 ---
 
 ## Repository Structure
-
+```
 │
 ├── data/
 │ ├── raw/
@@ -62,7 +62,7 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-
+```
 
 ---
 
