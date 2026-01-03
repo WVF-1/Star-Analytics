@@ -1,4 +1,4 @@
-# 🌌 Star Analytics: Letting Data Look at the Stars
+# Star Analytics: Letting Data Look at the Stars
 
 This project explores how data analytics and light machine learning can uncover natural structure in stellar data — without relying on predefined astronomical labels.
 
@@ -7,7 +7,7 @@ Rather than focusing on prediction or optimization, the goal is curiosity:
 
 ---
 
-## ✨ Project Overview
+## Project Overview
 
 Stars vary dramatically in temperature, size, brightness, and lifespan. Astronomers have studied these properties for over a century, often visualizing them through tools like the Hertzsprung–Russell diagram.
 
@@ -21,7 +21,7 @@ The emphasis is on interpretability, visualization, and storytelling — not mod
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 This project uses the **Star Dataset** from Kaggle, which contains physical properties of stars including:
 
@@ -38,7 +38,7 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 │
 ├── data/
@@ -66,7 +66,7 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 
 ---
 
-## 📘 Notebook Guide
+## Notebook Guide
 
 ### `01_eda.ipynb` — Exploratory Data Analysis
 - Feature distributions
@@ -88,7 +88,7 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 
 ---
 
-## 🧠 Methods Used
+## Methods Used
 
 - Exploratory Data Analysis (EDA)
 - Principal Component Analysis (PCA)
@@ -99,7 +99,7 @@ No hyperparameter tuning or performance optimization was performed — intention
 
 ---
 
-## 🌠 Key Insight
+## Key Insight
 
 Even without astronomical labels or domain rules, the data naturally organizes itself in ways that reflect real stellar lifetimes and physical laws.
 
@@ -107,7 +107,7 @@ This suggests that **structure is deeply embedded in the data itself**.
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - Supervised classification of star types
 - Feature importance analysis
@@ -118,7 +118,7 @@ This project is designed as the foundation for a short analytics series.
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 ```txt
 pandas
