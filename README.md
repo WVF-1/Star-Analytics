@@ -62,27 +62,6 @@ The dataset is small, clean, and ideal for exploratory analysis and unsupervised
 
 ---
 
-## Notebook Guide
-
-### `01_eda.ipynb` — Exploratory Data Analysis
-- Feature distributions
-- Scale differences across stellar properties
-- HR-diagram style visualizations
-- Early signs of natural structure
-
-### `02_pca_clustering.ipynb` — PCA & Unsupervised Learning
-- Feature scaling
-- Dimensionality reduction using PCA
-- K-Means clustering in reduced space
-- Silhouette score for gentle cluster validation
-
-### `03_viz_lifetimes.ipynb` — Stellar Evolution Interpretation
-- Mapping clusters back to physical space
-- Temperature vs magnitude (lifecycle view)
-- Radius and luminosity comparisons
-- Interpreting clusters as evolutionary stages
-
----
 
 ## Methods Used
 
